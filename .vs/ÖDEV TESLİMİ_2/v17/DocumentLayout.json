@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV TESL\u0130M\u0130_2\\\u00D6DEV TESL\u0130M\u0130_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{446BCE1D-7953-4A4D-B568-B1D12DE9ABAF}|\u00D6DEV TESL\u0130M\u0130_2\\\u00D6DEV TESL\u0130M\u0130_2.csproj|c:\\users\\monster\\desktop\\c#\\\u00F6dev tesl\u0130m\u0130_2\\\u00F6dev tesl\u0130m\u0130_2\\\u00F6dev tesl\u0130m\u0130_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446BCE1D-7953-4A4D-B568-B1D12DE9ABAF}|\u00D6DEV TESL\u0130M\u0130_2\\\u00D6DEV TESL\u0130M\u0130_2.csproj|solutionrelative:\u00F6dev tesl\u0130m\u0130_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV TESL\u0130M\u0130_2\\\u00D6DEV TESL\u0130M\u0130_2\\\u00D6DEV TESL\u0130M\u0130_2\\Program.cs",
+              "RelativeDocumentMoniker": "\u00D6DEV TESL\u0130M\u0130_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV TESL\u0130M\u0130_2\\\u00D6DEV TESL\u0130M\u0130_2\\\u00D6DEV TESL\u0130M\u0130_2\\Program.cs",
+              "RelativeToolTip": "\u00D6DEV TESL\u0130M\u0130_2\\Program.cs",
+              "ViewState": "AQIAAF4BAAAAAAAAAAAqwOsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T00:40:25.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

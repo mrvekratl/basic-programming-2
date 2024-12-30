@@ -1,0 +1,14 @@
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\bin\Debug\net8.0\ÖDEV TESLİMİ_2.exe
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\bin\Debug\net8.0\ÖDEV TESLİMİ_2.deps.json
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\bin\Debug\net8.0\ÖDEV TESLİMİ_2.runtimeconfig.json
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\bin\Debug\net8.0\ÖDEV TESLİMİ_2.dll
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\bin\Debug\net8.0\ÖDEV TESLİMİ_2.pdb
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\obj\Debug\net8.0\ÖDEV TESLİMİ_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\obj\Debug\net8.0\ÖDEV TESLİMİ_2.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\obj\Debug\net8.0\ÖDEV TESLİMİ_2.AssemblyInfo.cs
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\obj\Debug\net8.0\ÖDEV TESLİMİ_2.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\obj\Debug\net8.0\ÖDEV TESLİMİ_2.dll
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\obj\Debug\net8.0\refint\ÖDEV TESLİMİ_2.dll
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\obj\Debug\net8.0\ÖDEV TESLİMİ_2.pdb
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\obj\Debug\net8.0\ÖDEV TESLİMİ_2.genruntimeconfig.cache
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\ÖDEV TESLİMİ_2\obj\Debug\net8.0\ref\ÖDEV TESLİMİ_2.dll
